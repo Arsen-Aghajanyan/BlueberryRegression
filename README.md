@@ -67,7 +67,7 @@ This project aims to develop a machine learning model that predicts wild blueber
 - **NumPy** — библиотека для численных вычислений  
 - **Matplotlib** & **Seaborn** — библиотеки для визуализации данных  
 - **Scikit-learn** — инструменты для машинного обучения  
-- **RandomForestRegressor** (из **sklearn.ensemble**) — модель для регрессии и прогнозирования  
-- **GridSearchCV** (из **sklearn.model_selection**) — настройка гиперпараметров  
-- **MinMaxScaler** & **StandardScaler** (из **sklearn.preprocessing**) — методы масштабирования данных  
-- **Pipeline** (из **sklearn.pipeline**) — для создания рабочих процессов машинного обучения
+- **RandomForestRegressor** — модель для регрессии и прогнозирования  
+- **GridSearchCV** — настройка гиперпараметров  
+- **MinMaxScaler** & **StandardScaler** — методы масштабирования данных  
+- **Pipeline** — для создания рабочих процессов машинного обучения
